@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WildHomeLearn_V1.2", "WildHomeLearn_V1.2\WildHomeLearn_V1.2.vbproj", "{5BC64DBA-CB5F-4D92-9473-C5B25E26C1A1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WildHomeLearn_V1.2.Tests", "WildHomeLearn_V1.2.Tests\WildHomeLearn_V1.2.Tests.vbproj", "{9E91ABD4-6CEA-4292-98EA-1FF43FE97615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC64DBA-CB5F-4D92-9473-C5B25E26C1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC64DBA-CB5F-4D92-9473-C5B25E26C1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC64DBA-CB5F-4D92-9473-C5B25E26C1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC64DBA-CB5F-4D92-9473-C5B25E26C1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E91ABD4-6CEA-4292-98EA-1FF43FE97615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E91ABD4-6CEA-4292-98EA-1FF43FE97615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E91ABD4-6CEA-4292-98EA-1FF43FE97615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E91ABD4-6CEA-4292-98EA-1FF43FE97615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8770FDD-D091-44C6-B7E5-D5970C423BDF}
+	EndGlobalSection
+EndGlobal
