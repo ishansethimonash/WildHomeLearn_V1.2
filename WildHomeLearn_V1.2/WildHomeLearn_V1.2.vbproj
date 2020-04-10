@@ -299,6 +299,9 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.vbhtml" />
     <Content Include="Views\Shared\Lockout.vbhtml" />
     <Content Include="Views\Shared\_LoginPartial.vbhtml" />
+    <Content Include="Views\Home\KidsLearn.vbhtml" />
+    <Content Include="Views\Home\Parent.vbhtml" />
+    <Content Include="Views\Home\Whatsnew.vbhtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
