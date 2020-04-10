@@ -3,9 +3,11 @@
 End Code
 
 <div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <h1>Welcome to Wild Home Learn !!</h1>
+    <p class="lead"> Please select any options from below to continue.</p>
+    <p><a href="/Home/KidsLearn" class="btn btn-primary btn-lg">Kids &raquo;</a> 
+       <a href="/Home/Parent" class="btn btn-primary btn-lg">Parents &raquo;</a>
+    </p>
 </div>
 
 <div class="row">
